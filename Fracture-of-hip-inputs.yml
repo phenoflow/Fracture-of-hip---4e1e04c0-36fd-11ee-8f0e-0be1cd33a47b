@@ -1,0 +1,72 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/hip---primary.py
+inputModule3:
+  class: File
+  path: python/fracture-of-hip-joint---primary.py
+inputModule4:
+  class: File
+  path: python/fracture-of-hip-reduction---primary.py
+inputModule5:
+  class: File
+  path: python/fracture-of-hip-richard---primary.py
+inputModule6:
+  class: File
+  path: python/dynamic-fracture-of-hip---primary.py
+inputModule7:
+  class: File
+  path: python/external-fracture-of-hip---primary.py
+inputModule8:
+  class: File
+  path: python/intracapsular-fracture-of-hip---primary.py
+inputModule9:
+  class: File
+  path: python/fracture-of-hip-revisn---primary.py
+inputModule10:
+  class: File
+  path: python/fracture-of-hip---primary.py
+inputModule11:
+  class: File
+  path: python/femursubcapital-fracture-of-hip---primary.py
+inputModule12:
+  class: File
+  path: python/fracture-of-hip-unspec---primary.py
+inputModule13:
+  class: File
+  path: python/transepiphyseal-fracture-of-hip---primary.py
+inputModule14:
+  class: File
+  path: python/fracture-of-hip-epiphysis---primary.py
+inputModule15:
+  class: File
+  path: python/other-fracture-of-hip---primary.py
+inputModule16:
+  class: File
+  path: python/trochanteric-fracture-of-hip---primary.py
+inputModule17:
+  class: File
+  path: python/fracture-of-hip-greater---primary.py
+inputModule18:
+  class: File
+  path: python/fracture-of-hip-comminuted---primary.py
+inputModule19:
+  class: File
+  path: python/fracture-of-hip-procedure---primary.py
+inputModule20:
+  class: File
+  path: python/fracture-of-hip-history---primary.py
+inputModule21:
+  class: File
+  path: python/fracture-of-hip---secondary.py
+inputModule22:
+  class: File
+  path: python/fracture-of-hip-screw---secondary.py
+inputModule23:
+  class: File
+  path: python/fracture-of-hip-reduction---secondary.py
+inputModule24:
+  class: File
+  path: python/output-cases.py
